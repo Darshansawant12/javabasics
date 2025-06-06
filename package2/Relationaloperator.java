@@ -1,4 +1,4 @@
-package package1;
+package package2;
 
 public class Relationaloperator {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
- package package1;
+ package package2;
  class Unary{
     public static void main(String[] args) {
         int num1= 10;
